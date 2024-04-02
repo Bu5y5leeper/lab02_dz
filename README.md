@@ -276,4 +276,3 @@ Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/Bu5y5leeper/lab02_dz.git
  + b501ff9...99ef06e patch2 -> patch2 (forced update)
-```
